@@ -1,0 +1,20 @@
+{
+  "name": "semana-4",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:itgest-academy/semana-4.git",
+  "author": "Eleandro Duzentos <eleandro@inbox.ru>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon exercicios/dia3/server.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "indicative": "^7.4.4",
+    "mysql2": "^2.2.5"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
